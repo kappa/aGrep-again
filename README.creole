@@ -56,3 +56,7 @@ ColorPickerDialog
 aGrep Copyright (C) 2010, Aquamarine Networks.
 aGrep again Copyright (C) 2025, Alex Kapranoff.
 
+
+== Android Robot Attribution
+
+The Android robot used in the app icon is reproduced or modified from work created and shared by Google and used according to terms described in the [[https://creativecommons.org/licenses/by/3.0/|Creative Commons 3.0 Attribution License]].
